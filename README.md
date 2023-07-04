@@ -1,2 +1,3 @@
-# Covid-19-App
-This is Covid-19 tracker android app for monitoring Covid-19 cases.
+# covid_19
+This is my first app
+Covid-19 tracker application very usefull app 
